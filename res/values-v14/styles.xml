@@ -1,0 +1,24 @@
+<resources>
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">        <!-- API 14 theme customizations can go here. -->
+    </style>
+    
+    <style name="Theme_ActionBar_Tradus" parent="@style/Theme.Sherlock.Light">
+        <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+        <item name="actionBarSize">40dp</item>
+        <item name="android:actionBarSize">40dp</item>
+    </style>
+
+
+    <style name="Widget.Styled.ActionBar" parent="style/Widget.Sherlock.Light.ActionBar.Solid">
+        <item name="android:background">@color/category_color_compliment</item>
+        <item name="background">@color/category_color_compliment</item>
+        <item name="actionBarSize">44dp</item>
+        <item name="android:actionBarSize">44dp</item>
+    </style>
+    
+</resources>

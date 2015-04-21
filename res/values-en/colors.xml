@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="yellow">#FFEF00</color>
+    <color name="ligtest_green">#64ff82</color>
+    <color name="ligtest_green_compliment">#e8b50c</color>
+    <color name="dark_blue">#0c16e8</color>
+    <color name="light_brown_1">#fffbd5</color>
+    <color name="light_brown_2">#e8c39b</color>
+    <color name="light_brown_3">#ff9299</color>
+    <color name="light_brown_4">#bd92eb</color>
+    <color name="light_brown_5">#cfe7ff</color>
+    <color name="done_button">#403524</color>
+    <color name="category_color">#b28F54</color>
+    <color name="category_color_compliment">#7F6B49</color>
+    <color name="category_icon_color">#ffd692</color>
+
+</resources>

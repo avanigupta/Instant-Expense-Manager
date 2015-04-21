@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paisa</string>
+    <string name="you_have_not_yet_started_anything">कमाल है,अब app पूरी तरह से अपने खर्च का प्रबंधन करने के लिए विन्यस्त है</string>
+    <string name="your_current_monthly_spending_">"आपके मौजूदा मासिक खर्च है INR "</string>
+    <string name="categorize_expenses">खर्च की व्यवस्था</string>
+    <string name="weekly_expenses">साप्ताहिक खर्च</string>
+    <string name="monthly_expenses">मासिक खर्च</string>
+    <string name="Good_to_go">समाप्त</string>
+    <string name="Enter_Here">यहां लिख</string>
+    <string name="amount">राशि</string>
+     <string name="DONE">अगला पेज</string>
+    
+    <string name="date">तारीख</string>
+    <string name="please_enter_the_name_of_the_sender_from_which_you_recieve_your_banks_s_transaction_message">अपने बैंक के लेन - देन संदेश भेजने वाले का नाम दर्ज करें</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="choose_your_preference">अपनी पसंद को दबाएँ</string>
+    <string name="add_periodic_reminders">आवधिक अनुस्मारक डालें</string>
+    <string name="add_button_text">डालें</string>
+    <string name="Petrol_pump">पेट्रोल पंप</string>
+    <string name="ATM_transactions">एटीएम लेनदेन</string>
+    <string name="Restaurant">भोजनालय</string>
+    <string name="Shopping">खरीदारी</string>
+    <string name="Utility_Bills">उपयोगिता बिल</string>
+    <string name="Travelling">यात्रा</string>
+    <string name="Airfare">विमान किराया</string>
+    <string name="Railways">रेल</string>
+    <string name="Bus">बस</string>
+    <string name="Books">पुस्तकें</string>
+    <string name="Family">परिवार</string>
+    <string name="Health_Care">स्वास्थ्य देखभाल</string>
+    <string name="Household">घरबार</string>
+    <string name="Insurance">बीमा</string>
+    <string name="Loans">ऋण</string>
+    <string name="Personal">व्यक्तिगत</string>
+    <string name="Vacation">छुट्टी</string>
+    <string name="Flowers">फूल</string>
+    <string name="Internet_Bills">इंटरनेट विधेयकों</string>
+    <string name="Mobile_Bills">मोबाइल बिल</string>
+
+    <string-array name="my_cat_list_new">
+        <item>पेट्रोल पंप:&#xf085;</item>
+        <item>एटीएम लेनदेन:&#xf085;</item>
+        <item>भोजनालय:&#xf085;</item>
+        <item>खरीदारी:&#xf085;</item>
+        <item>उपयोगिता बिल:&#xf085;</item>
+        <item>यात्रा:&#xf085;</item>
+        <item>विमान किराया:&#xf0fb;</item>
+        <item>रेल:&#xf085;</item>
+        <item>बस:&#xf085;</item>
+        <item>पुस्तकें:&#xf085;</item>
+        <item>परिवारFamily:&#xf085;</item>
+        <item>स्वास्थ्य देखभाल:&#xf0fa;</item>
+        <item>घरबार:&#xf015;</item>
+        <item>बीमा:&#xf085;</item>
+        <item>ऋण:&#xf085;</item>
+        <item>व्यक्तिगत:&#xf06b;</item>
+        <item>छुट्टी:&#xf0f2;</item>
+        <item>फूल:&#xf08a;</item>
+        <item>इंटरनेट विधेयकों:&#xf08a;</item>
+        <item>मोबाइल बिल:&#xf098;</item>
+    </string-array>
+
+</resources>

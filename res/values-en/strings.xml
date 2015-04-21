@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paisa</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_your_preference">Tap Your Preference</string>
+        <string name="you_have_not_yet_started_anything">Wonderful, Now your app is fully Configured to manage your expenses</string>
+    
+    <string name="add_periodic_reminders">Add periodic reminders</string>
+    <string name="add_button_text">Add</string>
+    <string name="Petrol_pump">Petrol pump</string>
+    <string name="ATM_transactions">ATM transactions:&#xf085;</string>
+    <string name="Restaurant">Restaurant</string>
+    <string name="Shopping">Shopping</string>
+    <string name="Utility_Bills">Utility Bills</string>
+    <string name="Travelling">Travelling</string>
+    <string name="Airfare">Airfare</string>
+    <string name="Railways">Railways</string>
+    <string name="Bus">Bus</string>
+    <string name="Books">Books</string>
+    <string name="Family">Family</string>
+    <string name="Health_Care">Health Care</string>
+    <string name="Household">Household</string>
+    <string name="Insurance">Insurance</string>
+    <string name="Loans">Loans</string>
+    <string name="Personal">Personal</string>
+    <string name="Vacation">Vacation</string>
+    <string name="Flowers">Flowers</string>
+    <string name="Internet_Bills">Internet Bills</string>
+    <string name="Mobile_Bills">Mobile Bills</string>
+
+    <string-array name="my_cat_list_new">
+        <item>Petrol pump:&#xf085;</item>
+        <item>ATM transactions:&#xf085;</item>
+        <item>Restaurant:&#xf0f4;</item>
+        <item>Shopping:&#xf085;</item>
+        <item>Utility Bills:&#xf085;</item>
+        <item>Travelling:&#xf085;</item>
+        <item>Airfare:&#xf0fb;</item>
+        <item>Railways:&#xf085;</item>
+        <item>Bus:&#xf085;</item>
+        <item>Books:&#xf085;</item>
+        <item>Family:&#xf085;</item>
+        <item>Health Care:&#xf0fa;</item>
+        <item>Household:&#xf015;</item>
+        <item>Insurance:&#xf085;</item>
+        <item>Loans:&#xf085;</item>
+        <item>Personal:&#xf06b;</item>
+        <item>Vacation:&#xf0f2;</item>
+        <item>Flowers:&#xf08a;</item>
+        <item>Internet Bills:&#xf08a;</item>
+        <item>Mobile Bills:&#xf098;</item>
+    </string-array>
+
+</resources>

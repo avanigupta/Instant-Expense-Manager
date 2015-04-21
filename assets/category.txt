@@ -1,0 +1,19 @@
+Petrol pump:&#xf085;
+ATM transactions:&#xf085;
+Shopping:&#xf07a;
+Mobile Bills:&#xf098;
+Utility Bills:&#xf085;
+Travelling:&#xf085;
+Airfare:&#xf0fb;
+Railways:&#xf085;
+Bus:&#xf085;
+Books:&#xf085;
+Family:&#xf085;
+Health Care:&#xf0fa;
+Household:&#xf015;
+Insurance:&#xf085;
+Loans:&#xf085;
+Personal:&#xf06b;
+Vacation:&#xf0f2;
+Internet Bills:SOSAr
+Flowers:&#xf08a;
